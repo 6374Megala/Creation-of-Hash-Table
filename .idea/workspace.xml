@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6dd0bd1-d8c1-4875-ae4f-204fc4cf3329" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/INode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyMapNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyHashMapTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2aM8dRMsUjWmdaxUsebvSXJi9e9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.MyHashMapTest.givenASentence_WhenWordsAreAddedToList_ShouldReturnParanoidFrequencyAndRemoveAvoidable">
+    <configuration name="MyHashMapTest.givenASentence_WhenWordsAreAddedToList_ShouldReturnParanoidFrequencyAndRemoveAvoidable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreationofHashTable" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyHashMapTest" />
+      <option name="METHOD_NAME" value="givenASentence_WhenWordsAreAddedToList_ShouldReturnParanoidFrequencyAndRemoveAvoidable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapTest.givenaSentance_WhenWordsareAddedToList_ShouldReturnParanoidFrequencyUC2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreationofHashTable" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyHashMapTest" />
+      <option name="METHOD_NAME" value="givenaSentance_WhenWordsareAddedToList_ShouldReturnParanoidFrequencyUC2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapTest.givenaSentance_WhenWordsareAddedToList_ShouldReturnWordFrequencyUC1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreationofHashTable" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyHashMapTest" />
+      <option name="METHOD_NAME" value="givenaSentance_WhenWordsareAddedToList_ShouldReturnWordFrequencyUC1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Creation of HashTable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Creation of HashTable" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyHashMapTest.givenASentence_WhenWordsAreAddedToList_ShouldReturnParanoidFrequencyAndRemoveAvoidable" />
+        <item itemvalue="JUnit.MyHashMapTest.givenaSentance_WhenWordsareAddedToList_ShouldReturnParanoidFrequencyUC2" />
+        <item itemvalue="JUnit.MyHashMapTest.givenaSentance_WhenWordsareAddedToList_ShouldReturnWordFrequencyUC1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6dd0bd1-d8c1-4875-ae4f-204fc4cf3329" name="Changes" comment="" />
+      <created>1704117176717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704117176717</updated>
+    </task>
+    <servers />
+  </component>
+</project>
